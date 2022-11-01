@@ -8,11 +8,11 @@ Once the website is opened you see the header, body of text, the table, and the 
 
 ![Website1.png](Website1.png)
 ## Summary
-Drawbacks:
+### Drawbacks:
 1.  Limited data available reguarding countries and date. (Only US and Canada/ Only 2010)
 2.  There is no clear button to clear the search.
 
-Additional recommendations:
+### Additional recommendations:
 
 1.  We could have added a charts for better presentation.
 2.  instead of type in the values, we could have added a drop down and select from the list.
