@@ -16,3 +16,4 @@ Once the website is opened you see the header, body of text, the table, and the 
 
 1.  We could have added a charts for better presentation.
 2.  instead of type in the values, we could have added a drop down and select from the list.
+3.  Pull data from a souce that is continously updating
